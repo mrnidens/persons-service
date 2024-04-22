@@ -10,4 +10,5 @@ public class PersonDto {
     String name;
     LocalDate birthDate;
     AddressDto address;
+    String type;
 }
